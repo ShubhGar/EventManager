@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13772" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Host" representedClassName="Host" syncable="YES" codeGenerationType="class">
+        <attribute name="dialInNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="hostCode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="hostName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="passcode" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Host" positionX="-63" positionY="-18" width="128" height="105"/>
+    </elements>
+</model>

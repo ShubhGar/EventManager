@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emailSubject</key>
+	<string>Inquiry: %@</string>
+	<key>emailBody</key>
+	<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tempor nisl sed rhoncus ullamcorper. Nullam sagittis placerat neque vitae faucibus. Donec vehicula justo ligula, sit amet congue lacus hendrerit id. Vivamus ultrices feugiat dolor vitae aliquam. Aliquam erat volutpat. Cras ultrices interdum facilisis. Aliquam erat volutpat. In sed hendrerit mauris. Praesent non diam vitae turpis sagittis faucibus. Mauris et ante et mauris faucibus viverra quis vel augue. Ut viverra risus orci, at ullamcorper diam malesuada eu. Curabitur finibus metus at erat varius, in cursus sapien scelerisque. Sed lectus eros, pulvinar eget porttitor euismod, fermentum nec lorem. Donec tellus tortor, sagittis non nisi eu, sagittis ullamcorper velit. Vivamus tincidunt ipsum id blandit ultrices.</string>
+	<key>accessCodeWords</key>
+	<array>
+		<string>Conference Code</string>
+		<string>Code</string>
+		<string>Passcode</string>
+		<string>Access code</string>
+	</array>
+</dict>
+</plist>
